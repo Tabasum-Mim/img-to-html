@@ -1,0 +1,18 @@
+
+.f-content{
+	padding-top: 80px;
+}
+.img1{
+	opacity: 1;
+  display: block;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  border: 3px solid #ef8b09;
+}
+.img1:hover{
+	opacity: 0.3;
+}
+.f-p1{
+	color: red;
+}
